@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-09T20:24:21Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:twbell"
+    },
+    {
+      "Claim": "mdon:@twbell@mastodon.social"
+    },
+    {
+      "Claim": "t:twbell"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "adbb9558b6135dd8126ff144",
+    "Timestamp": "2023-04-09T20:28:06Z",
+    "Signature": "573730512175ad78ff564edc3eee6f4757de5a4e045e87ff814ec754af5950f16c64675389ccc5289bfa9f82c17914805886a3a553fdde0012a8f85317c2efa25d695a860a7896bab3cd27485f9d32a0408e4f749af4d6e4eac8e4f3d7819cb46a8f9ea9f07bda88bdc5b2f58a7196aef3b9e81fde1f748e122666acfd7a4c1761b18d120553865fd54625676fa1282e2b49bf9d220266b20f29d69d55dcf57b4931169a41447d941e1c5b3f20a9ff3ce41bf4f6645b5c1315c865368988bdae39e9e5bb116553ff2039967f64d41f59efc80333d1b0dd8cb699b09f1028e13eb00ac07655999787e9e44bbca99e28e0542fda8f2712d767ca097791dd11b3d1"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "5301f5c4386a2d69d06bf688c23743e6344e3edeadaea20f9438a060638db22f",
+  "ContentToHash": "v1|gh:twbell,mdon:@twbell@mastodon.social,t:twbell|2023-04-09T20:24:21Z"
+}
